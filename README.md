@@ -1,4 +1,4 @@
-# react-vite deploy in github pages
+# React-vite deploy in github pages
 
 1. Open terminal
 
